@@ -12,7 +12,6 @@ Web • Mobile (iOS) • API • BDD • CI/CD • Performance
 - API: `newman run 02-api/postman/collection.json -r html` 
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/valentina-andrade-89b40a12b/) | [Email](lidia.valentina@icloud.com)
-
+[LinkedIn](https://www.linkedin.com/in/valentina-andrade-89b40a12b/) | [Email](mailto:lidia.valentina@icloud.com)
 
 
