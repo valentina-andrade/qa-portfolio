@@ -1,9 +1,9 @@
 <h3 align="center">QA Portfólio — Valentina Andrade</h3>
-<p align="center"><em>Quality Assurance · Web · Mobile (iOS) · API · BDD · CI/CD · Performance</em></p>
+<p align="center"><em>Quality Assurance · Web · Mobile · API · BDD · CI/CD · Performance</em></p>
 
 ---
 
-## ⚛︎ Tecnologias & Ferramentas
+### ⚛︎ Tecnologias & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maestro-000000?style=for-the-badge&logo=android&logoColor=white"/>
@@ -19,18 +19,18 @@
 
 ---
 
-## ≡ Projetos rápidos
+### ≡ Projetos rápidos
 - **Web E2E (Cypress)** — ver [`03-web-e2e/`](./03-web-e2e/)
 - **API (Postman/Newman)** — ver [`02-api/`](./02-api/)
 - **Templates / Processos** — ver [`01-manual/`](./01-manual/)
 
 ---
 
-## ⚒︎ Como rodar (quando eu publicar os exemplos)
+### ⚒︎ Como rodar (quando eu publicar os exemplos)
 - Web: `npm i && npx cypress run`
 - API: `newman run 02-api/postman/collection.json -r html` 
 
-## 𖡡 Contato
+### 𖡡 Contato
 [LinkedIn](https://www.linkedin.com/in/valentina-andrade-89b40a1b1/) | [Email](mailto:lidia.valentina@icloud.com)
 
 
