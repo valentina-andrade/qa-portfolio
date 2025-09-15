@@ -20,18 +20,23 @@
 ---
 
 ### ≡ Projetos rápidos
-- **Web E2E (Cypress)** — ver [`03-web-e2e/`](./03-web-e2e/)
-- **API (Postman/Newman)** — ver [`02-api/`](./02-api/)
-- **Templates / Processos** — ver [`01-manual/`](./01-manual/)
+- **01-manual/**
+  - planning/
+    - [Matriz de Testes](01-manual/planning/test-matrix-template.md)
+    - [Plano de Teste](01-manual/planning/test-plan-template.md)
+  - reporting/
+    - [Bug Template](01-manual/reporting/bug-template.md)
+    - [Suporte Template](01-manual/reporting/support-template.md)
+    - [User Story Template](01-manual/reporting/user-story-template.md)
+  - specification/
+    - [Especificação Funcional](01-manual/specification/user-spec-template.md)
 
+- **02-api/postman/** _(☱ em construção)_
+
+- **03-web-e2e/docs/** _(☱ em construção)_
 ---
-
-### ⚒︎ Como rodar (quando eu publicar os exemplos)
-- Web: `npm i && npx cypress run`
-- API: `newman run 02-api/postman/collection.json -r html` 
-
 ### 𖡡 Contato
 [LinkedIn](https://www.linkedin.com/in/valentina-andrade-89b40a1b1/) | [Email](mailto:lidia.valentina@icloud.com)
 
-
+---
 

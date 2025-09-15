@@ -43,7 +43,7 @@
 [ ] Bloqueado  
 
 ---
-### CASO DE TESTEe (CT-002)
+### CASO DE TESTE (CT-002)
 [Repita a estrutura acima para cada caso]
 
 ---
